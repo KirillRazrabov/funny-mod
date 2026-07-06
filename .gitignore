@@ -1,0 +1,19 @@
+# Gradle
+.gradle/
+build/
+
+# IDEA
+.idea/
+*.iml
+out/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+run/logs/
+
+# Generated files
+run/
