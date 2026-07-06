@@ -27,7 +27,7 @@ public class FunnyMod implements ModInitializer {
 		ModItems.initialize();
 	}
 
-	public class ModItems {
+	public static class ModItems {
 
 		public static final Item SUSPICIOUS_SUBSTANCE =
 				register("suspicious_substance", Item::new, new Item.Properties());

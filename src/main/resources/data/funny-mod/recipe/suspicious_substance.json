@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#No",
+    "#No",
+    "#No"
+  ],
+  "key": {
+    "#": "minecraft:nether_star",
+    "N": "minecraft:netherite_block",
+    "o": "minecraft:deepslate_diamond_ore"
+  },
+  "result": {
+    "id": "funny-mod:suspicious_substance"
+  }
+}
