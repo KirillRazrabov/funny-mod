@@ -3,15 +3,15 @@
 	"id": "funny-mod",
 	"version": "${version}",
 	"name": "Funny Mod",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Mod for testing fabric",
 	"authors": [
-		"Me!"
+		"Hanakor"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/KirillRazrabov/funny-mod"
 	},
-	"license": "CC0-1.0",
+	"license": "GPL-3.0",
 	"icon": "assets/funny-mod/icon.png",
 	"environment": "*",
 	"entrypoints": {
